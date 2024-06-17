@@ -1,4 +1,4 @@
-# React Array Component Practice
+# React - Functional vs Class Component Practice
 
 This is a simple React application created as a practice for demonstrate the implementation of a simple age and name input component using both functional and class components in React. This project serves as an example of implementing the same functionality using both functional and class components in React. It can be used as a learning resource or a starting point for building more complex applications. Additionally, it demonstrates the usage of state management and event handling in both component types.
 
